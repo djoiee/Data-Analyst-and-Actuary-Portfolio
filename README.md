@@ -58,5 +58,6 @@ Project documentation
 Rizal Technological University, Philippines: Bachelor of Science in Statistics, 2023-2027
 
 ## Certifications
-LIMITLESS: National Youth Summit on Statistics — University of the Philippines Statistical Society
-Participated in discussions and learning sessions focused on statistics, analytics, and industry applications. | 2026
+LIMITLESS: National Youth Summit on Statistics — University of the Philippines Statistical Society, 2026
+
+Participated in discussions and learning sessions focused on statistics, analytics, and industry applications.
