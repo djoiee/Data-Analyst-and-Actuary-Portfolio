@@ -17,6 +17,6 @@ This project focuses on analyzing employee turnover trends and identifying possi
   * Rows: 14,999
 
 ## Acknowledgements
-This dataset was sourced from **Kaggle** 
+This dataset was sourced from **Kaggle**.
 
 **Source Link:** https://www.kaggle.com/code/jacksonchou/hr-analytics/script 
