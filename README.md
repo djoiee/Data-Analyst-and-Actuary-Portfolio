@@ -42,7 +42,7 @@ This project focuses on analyzing employee turnover trends and identifying possi
 
 **Analysis Performed:** Employee turnover analysis, satisfaction level analysis, work hours analysis, project workload analysis, salary level analysis, promotion analysis, and correlation analysis using heatmaps.
 
-**Files Included:** Python Notebook (.ipynb), HR Dataset (.csv), Data Visualizations / Charts, and Project Documentation.
+**Files Included:** Python Notebook (.ipynb), HR Dataset (.csv), and Project Documentation.
 
 **Dataset**
 * HR_comma_sep.csv - Employee HR dataset used for employee turnover and workforce analysis.
