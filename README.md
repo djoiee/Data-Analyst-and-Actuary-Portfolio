@@ -37,4 +37,7 @@ Rizal Technological University, Philippines: Bachelor of Science in Statistics, 
 ## Certifications
 LIMITLESS: National Youth Summit on Statistics — University of the Philippines Statistical Society, 2026
 
+## Contacts
+LinkedIn:[@joyodiamar](https://www.linkedin.com/in/joyodiamar/)
+
 Participated in discussions and learning sessions focused on statistics, analytics, and industry applications.
