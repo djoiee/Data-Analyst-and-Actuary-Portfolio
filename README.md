@@ -15,44 +15,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Customer Support KPI Dashboard
 
-**Goal**:
-To analyze customer support operations and identify trends in call handling performance, customer satisfaction, and operational efficiency.
+**Description:** This project focused on analyzing a customer support dataset using Excel and Power BI. The dataset included customer call records, support topics, agent performance, satisfaction ratings, response times, and resolution status. The goal of the project is to analyze customer support operations and identify trends in call handling performance, customer satisfaction, and operational efficiency. The project involved data cleaning, KPI creation, pivot table analysis, DAX measures, dashboard development, and business insight generation.
 
-**Description**:
-This project focused on analyzing a customer support dataset using Excel and Power BI. The dataset included customer call records, support topics, agent performance, satisfaction ratings, response times, and resolution status. The project involved data cleaning, KPI creation, pivot table analysis, DAX measures, dashboard development, and business insight generation.
+**Tools:** Excel, Power BI, Pivot Tables, and DAX.
 
-**Skills**:
-data cleaning, KPI analysis, dashboard design, data visualization, business analysis, customer operations analysis, DAX, reporting.
+**Skills:** data cleaning, KPI analysis, dashboard design, data visualization, business analysis, customer operations analysis, DAX, and reporting.
 
-**Technology**:
-Excel, Power BI, Pivot Tables, DAX.
+**Files Included:** Cleaned Excel dataset, Power BI dashboard (.pbix), Dashboard screenshots, and Project documentation
 
-**Dashboard Features**:
-KPI summary cards
-Calls by Topic analysis
-Peak Call Hour trends
-Agent Performance monitoring
-Satisfaction Distribution analysis
-Resolution Rate tracking
-Interactive slicers and filters
+## Dataset
+* Call-Center-Dataset.csv - Call center operational data used for performance, efficiency, and customer satisfaction analysis.
+  * Fields: 10
+  * Rows: 5,000
 
-**Business Insights**:
-Streaming and Technical Support generated the highest call volumes.
-Call activity peaked during midday hours.
-Some support categories recorded lower customer satisfaction scores.
-High-performing agents maintained strong resolution performance despite heavier workloads.
-
-**Recommendations**:
-Increase staffing during peak support hours.
-Improve queue times to enhance customer satisfaction.
-Investigate recurring technical support issues.
-Use top-performing agents as mentors for team development.
-
-**Files Included**:
-Cleaned Excel dataset
-Power BI dashboard (.pbix)
-Dashboard screenshots
-Project documentation
+## Acknowledgements
+This dataset was sourced from **Kaggle**.
 
 ## Education
 Rizal Technological University, Philippines: Bachelor of Science in Statistics, 2023-2027
