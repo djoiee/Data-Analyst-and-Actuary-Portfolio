@@ -4,7 +4,7 @@ Welome to my Portfolio!
 
 My name is Joy! I’m an aspiring Data Analyst and Actuary currently pursuing a BS in Statistics. I’m passionate about using data to solve problems, uncover insights, and support better decision-making.
 
-With nearly 4 years of experience in the BPO industry, I’ve developed strong communication, analytical, and operational problem-solving skills. I’m currently building my technical skills in Excel, Power BI, SQL, and data analytics through hands-on portfolio projects focused on customer operations, KPI analysis, and business reporting.
+With nearly 4 years of experience in technical support, I’ve developed strong communication, analytical, and operational problem-solving skills. I’m currently building my technical skills in Excel, Power BI, SQL, and data analytics through hands-on portfolio projects focused on customer operations, KPI analysis, and business reporting.
 
 I’m especially interested in actuarial science, risk analysis, business intelligence, and data-driven solutions that improve processes and customer experience. I enjoy learning new analytical tools, exploring datasets, and turning raw data into meaningful insights.
 
