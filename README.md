@@ -23,12 +23,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Files Included:** Cleaned Excel dataset, Power BI dashboard (.pbix), Dashboard screenshots, and Project documentation
 
-# Dataset
+**Dataset**
 * Call-Center-Dataset.csv - Call center operational data used for performance, efficiency, and customer satisfaction analysis.
   * Fields: 10
   * Rows: 5,000
 
-# Acknowledgements
+**Acknowledgements**
 This dataset was sourced from **Kaggle**.
 
 ## HR Employee Turnover Analysis
@@ -44,12 +44,12 @@ This project focuses on analyzing employee turnover trends and identifying possi
 
 **Files Included:** Python Notebook (.ipynb), HR Dataset (.csv), Data Visualizations / Charts, and Project Documentation.
 
-# Dataset
+**Dataset**
 * HR_comma_sep.csv - Employee HR dataset used for employee turnover and workforce analysis.
   * Fields: 10
   * Rows: 14,999
 
-# Acknowledgements
+**Acknowledgements**
 This dataset was sourced from **Kaggle**.
 
 **Source Link:** https://www.kaggle.com/code/jacksonchou/hr-analytics/script 
